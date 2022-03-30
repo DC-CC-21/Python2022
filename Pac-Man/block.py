@@ -15,4 +15,4 @@ class Block:
         # self = a
 
     def display(self):
-        pr.draw_rectangle(self.x, self.y, self.w, self.h,pr.BLUE)        
+        pr.draw_rectangle(self.x, self.y, self.w, self.h,pr.BLUE)      
